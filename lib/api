@@ -1,0 +1,8 @@
+base url : 'https://newsapi.org/'
+
+endpoint : '/v2/top-headlines'
+
+parameters:
+country,
+apiKey=db317dd5a1a14d359cf120f8e9535a7f
+category: 
